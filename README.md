@@ -23,4 +23,4 @@ python fineTrain_DensePAD.py -csvPath cseFilePath -datasetPath datasetImagesPath
 # Citation
 If you are using the code, please cite the paper:
 
-Renu Sharma, Arun Ross,"DensePAD: An Effective and Robust IrisPresentation Attack Detector",arXiv, 2020.
+Renu Sharma, Arun Ross,"D-NetPAD: An Explainable and Interpretable Iris Presentation Attack Detector",arXiv, 2020.
