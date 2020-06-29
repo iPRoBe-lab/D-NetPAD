@@ -8,7 +8,7 @@ Pytorch, Numpy, Scipy, Pillow
 # Description
 The D-NetPAD takes a cropped iris image as input and produces a PA score between 0 and 1, where 0 means bonafide and 1 means presentation attack. Sample cropped iris images are provided in CropperImages folder.
 
-<img src="https://github.com/sharmaGIT/D-NetPAD/blob/master/Images/Architecture.jpg" width="500" height="100">
+<img src="https://github.com/sharmaGIT/D-NetPAD/blob/master/Images/Architecture.jpg" width="800" height="200">
 
 
 ![Architecure](https://github.com/sharmaGIT/D-NetPAD/blob/master/Images/Architecture.jpg)
