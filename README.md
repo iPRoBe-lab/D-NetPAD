@@ -4,8 +4,17 @@ Code for Iris Presentation Attack Detection
 # Requirement
 Pytorch, Numpy, Scipy, Pillow
 
+# Description
+The model take as input a cropped iris image and produces PA score between 0 and 1, where 0 means bonafide and 1 means presentation attack.
+
+![GitHub Logo](/Images/logo.png)
+Format: ![Alt Text](url)
+
 # Testing
-python test_D-NetPAD.py -imageFolder Images
+The model can be downloaded from here. Copy the model into Model folder and run the command:
+python test_D-NetPAD.py -imageFolder CroppedImages
+
+PA score CSV file will be created in the folder of images.
 
 # Training
 python train_D-NetPAD.py -csvPath cseFilePath -datasetPath datasetImagesPath -outputPath resultPath
