@@ -10,9 +10,6 @@ The D-NetPAD takes a cropped iris image as input and produces a PA score between
 
 <img src="https://github.com/sharmaGIT/D-NetPAD/blob/master/Images/Architecture.jpg" width="800" height="200">
 
-
-![Architecure](https://github.com/sharmaGIT/D-NetPAD/blob/master/Images/Architecture.jpg)
-
 # Testing
 The model can be downloaded from here. Copy the model into Model folder and run the command:
 
