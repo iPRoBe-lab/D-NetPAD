@@ -11,7 +11,7 @@ The D-NetPAD takes a cropped iris image as input and produces a PA score between
 <img src="https://github.com/sharmaGIT/D-NetPAD/blob/master/Images/Architecture.jpg" width="800" height="200">
 
 # Testing
-The model can be downloaded from ![https://drive.google.com/drive/folders/178o1ujoUb3b5HYi8_51b1r8XZ2wbEYc7?usp=sharing]. Copy the model into Model folder and run the command:
+The model can be downloaded from [Here](https://drive.google.com/drive/folders/178o1ujoUb3b5HYi8_51b1r8XZ2wbEYc7?usp=sharing). Copy the model into Model folder and run the command:
 
 python test_D-NetPAD.py -imageFolder CroppedImages
 
