@@ -1,6 +1,6 @@
 
 # D-NetPAD
-Code for Iris Presentation Attack Detection
+Code for Iris Presentation Attack Detection based on DenseNet Architecture.
 
 # Requirement
 Pytorch, Numpy, Scipy, Pillow
