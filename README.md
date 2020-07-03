@@ -20,7 +20,7 @@ PA score CSV file will be created in the folder of images.
 # Training
 python train_D-NetPAD.py -csvPath cseFilePath -datasetPath datasetImagesPath -outputPath resultPath
 
-CSV file contains ground truth of datast images. The format of the dataset CSV file is
+CSV file contains ground truth of dataset images. The format of the dataset CSV file is
 
 train,Live,imageFile1.png <br />
 train,Spoof,imageFile2.png <br />
