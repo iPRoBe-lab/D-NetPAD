@@ -6,7 +6,7 @@ Code for Iris Presentation Attack Detection based on DenseNet Architecture.
 Pytorch, Numpy, Scipy, Pillow
 
 # Description
-The D-NetPAD takes a cropped iris image as input and produces a PA score between 0 and 1, where 0 means bonafide and 1 means presentation attack. Sample cropped iris images are provided in CropperImages folder.
+The D-NetPAD takes a cropped iris image as input and produces a PA score between 0 and 1, where 0 means bonafide and 1 means presentation attack. Sample cropped iris images are provided in CroppedImages folder.
 
 <img src="https://github.com/sharmaGIT/D-NetPAD/blob/master/Images/Architecture.jpg" width="800" height="200">
 
@@ -33,4 +33,4 @@ python fineTrain_D-NetPAD.py -csvPath cseFilePath -datasetPath datasetImagesPath
 # Citation
 If you are using the code, please cite the paper:
 
-Renu Sharma, Arun Ross, [D-NetPAD: An Explainable and Interpretable Iris Presentation Attack Detector](https://arxiv.org/abs/2007.01381), arXiv, 2020.
+Renu Sharma, Arun Ross, [D-NetPAD: An Explainable and Interpretable Iris Presentation Attack Detector](https://arxiv.org/abs/2007.01381), arXiv:2007.01381, 2020.
