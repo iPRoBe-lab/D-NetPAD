@@ -33,4 +33,4 @@ python fineTrain_D-NetPAD.py -csvPath cseFilePath -datasetPath datasetImagesPath
 # Citation
 If you are using the code, please cite the paper:
 
-Renu Sharma, Arun Ross, [D-NetPAD: An Explainable and Interpretable Iris Presentation Attack Detector](https://arxiv.org/abs/2007.01381), arXiv:2007.01381, 2020.
+Renu Sharma, Arun Ross, [D-NetPAD: An Explainable and Interpretable Iris Presentation Attack Detector](https://arxiv.org/abs/2007.01381), IJCB, 2020.
